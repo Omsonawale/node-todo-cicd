@@ -1,4 +1,4 @@
-pipeline{
+/*pipeline{
     agent { label 'dev-server' }
     
     stages{
@@ -32,4 +32,4 @@ pipeline{
             }
         }
     }
-}
+}*/
